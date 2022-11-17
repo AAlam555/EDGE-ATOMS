@@ -1,11 +1,11 @@
 <site-list version="3">
-    <created-by>
-      <tool>EMIESiteListManager</tool>
-      <version>12.0.0.0</version>
-      <date-created>11/17/2022 20:47:46</date-created>
-    </created-by>
-    <site url="atoms.alberta.ca/ATOMSExternal/ATOMS.Presentation/">
-      <compat-mode>IE5</compat-mode>
-      <open-in allow-redirect="true">MSEdge</open-in>
-    </site>
-  </site-list>
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>11/17/2022 20:47:46</date-created>
+  </created-by>
+  <site url="atoms.alberta.ca/ATOMSExternal/ATOMS.Presentation/">
+    <compat-mode>IE5</compat-mode>
+    <open-in allow-redirect="true">MSEdge</open-in>
+  </site>
+</site-list>
